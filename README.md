@@ -1,7 +1,7 @@
 # QT Kii-DFU Qt6
 
 ## Project Overview
-This project demonstrates upgrading the Kii-DFU application from Qt5 to Qt6, showcasing the process of adapting legacy Qt5 code to be compatible with the latest Qt6 framework while retaining the original functionality.
+This project demonstrates upgrading the Kii-DFU (https://github.com/kiibohd/kii-dfu) application from Qt5 to Qt6, showcasing the process of adapting legacy Qt5 code to be compatible with the latest Qt6 framework while retaining the original functionality.
 
 **Device Firmware Update (DFU)** is a USB-based protocol that allows firmware updates directly to a microcontroller (MCU) without the need for external programming tools. This project utilizes DFU functionality to facilitate seamless firmware updates for compatible devices using a user-friendly interface built with Qt6.
 
@@ -50,4 +50,4 @@ This project demonstrates upgrading the Kii-DFU application from Qt5 to Qt6, sho
 This project follows the same license as the original repository. For details, see the LICENSE file in the original repository.
 
 ## Acknowledgments
-Special thanks to the kiibohd team for the original Kii-DFU project.
+Special thanks to the kiibohd team for the original Kii-DFU (https://github.com/kiibohd/kii-dfu) project.
